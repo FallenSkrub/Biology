@@ -40,4 +40,4 @@ Sam
 * People type B have added galactose
 * People with blood type AB have a little of both
 
-<img src="https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3A020f5208516398a4052d8617688a9ebc6daacc83f2634313e7631825%2BIMAGE_TINY%2BIMAGE_TINY.1">
+<img src="https://cellbiology.med.unsw.edu.au/cellbiology/images/a/aa/Cell_membrane.png">
