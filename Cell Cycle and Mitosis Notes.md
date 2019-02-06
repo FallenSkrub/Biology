@@ -4,6 +4,7 @@ Sam
 </sup></sub>
 
 <img src="https://dp9bxf2pat5uz.cloudfront.net/wp-content/uploads/chromosomes-700x500.jpg" alt="A chromosome." height="250" width="350">
+
 A picture of a chromosome.
 
 # Chromosomes, the Cell Cycle, Cell Division
@@ -17,6 +18,7 @@ A picture of a chromosome.
 	* Dividing in half allows a prokaryote to produce and identical copy of itself.
 * Eukaryotes divide by **Mitosis** and **Meiosis**
 	* Multple strands of DNA (chromosomes) require more coordination to replicate and redistribute themselves properly.
+	
 	<img src="https://media.giphy.com/media/24CEMWKcu29gI/giphy.gif" alt="Mitosis">
 	
 	Mitosis.
@@ -46,7 +48,7 @@ A picture of a chromosome.
 
 <img src="https://www.siyavula.com/read/science/grade-10-lifesciences/cell-division/images/03-cell-division/BR_CellCycleDiagram.jpg" alt="The Cell Cycle." height="260.5" width="375">
 	
-	The Cell Cycle.
+The Cell Cycle.
 
 * "IPMATC"
 	* Interphase (In Between)
