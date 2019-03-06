@@ -6,9 +6,11 @@ Sam
 # Incomplete Dominance
 * Dominant allele isn't completely expressed with recessive
 
-* R=Red
-* r=White
-* Non-Mendelian would make these violet instead of red final answers.
+R=Red
+
+r=White
+
+Non-Mendelian would make these violet instead of red final answers.
 
 |     | r  | r  |
 |-----|----|----|
@@ -24,7 +26,7 @@ Sam
 * Could be shown as RW or Rr
 * Neither one is truly dominant
 
-#Codominance
+# Codominance
 * Could be shown as BW or C^B C^W
 * Both alleles are expressed
 
