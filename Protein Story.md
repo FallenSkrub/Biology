@@ -37,11 +37,7 @@ Here's what he actually meant:
 
 ### Unsolved Questions for Slide 3:
 * Ask Addicott ask about what he means by, "what sort of Mendelian inheritance pattern tends to go with disorders of the gene."
-
-# REST IS NOT DONE YET
-
-
-
+* [Maybe useful?](https://www.ncbi.nlm.nih.gov/books/NBK115561/)
 
 ## Slide 4
 2. How is the gene transcribed? (DNA to RNA) What type of cells in the body do you think do most of this transcribing and why? Need to make yours specific to your protein - photos of your mRNA as it was being made may work. (may need more than one slide) Can base roughly on the video of the process 
