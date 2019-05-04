@@ -1,4 +1,5 @@
 # Protein Story
+MY PROTEIN: Cyclooxygenase
 
 ## Slide 1
 
